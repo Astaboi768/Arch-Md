@@ -3,9 +3,9 @@
 
 require("./all/module.js")
 
-global.owner = "2347036214381" //change
-global.botname = "𝑨𝒓𝒄𝒉 𝑴𝒅 𝑨𝒊"  //change
-global.ownername = "ᴇᴅɴᴜᴛ" //change
+global.owner = "2348039896597" //change
+global.botname = "AYANFE 🌹💜🦋"  //change
+global.ownername = "AYANFE 🌹💜🦋" //change
 global.simbol = "♘"
 global.footer = "`𝑮𝒉𝒂𝒔𝒕 𝑪𝒍𝒂𝒏 𝑮𝒓𝒆𝒚`" //Don't touch
 
